@@ -6,7 +6,7 @@ import { ActivatedRoute } from '@angular/router';
 import { NgxGalleryOptions, NgxGalleryImage, NgxGalleryAnimation } from '@kolkov/ngx-gallery';
 
 @Component({
-  selector: 'navigationmfe-member-detail',
+  selector: 'member-detail-component',
   templateUrl: './member-detail.component.html',
   styleUrls: ['./member-detail.component.css']
 })
